@@ -1,1 +1,14 @@
-/env
+.bloop
+.metals
+/deps
+/project
+/src
+/static
+/target
+/build*
+/config*
+/plugin
+/poly*
+/require*
+.scala*
+*-ddd-*
