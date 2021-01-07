@@ -10,5 +10,6 @@
 /plugin
 /polynote.*
 /require*
+/run
 .scalafmt.*
 *-ddd-*
